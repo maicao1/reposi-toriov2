@@ -13,33 +13,3 @@ p{
     font: optional;
 }  
 
-h1{
-    
-  
-    font-size: 100px;
-    color: blueviolet;
-    font: optional;
-    background-color: #006400;
-    text-align: center ;
-    
-}
-h2{
-    font-size: 50px;
-}
-
-h3{
-    
-  
-    font-size: 30px;
-    color: rgb(2, 0, 4);
-    font: optional;
-    
-}
-div{
-    font-size: 20px;
-   
-}
-img{
-    align-self: auto;
-    
-}
