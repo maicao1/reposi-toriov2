@@ -1,15 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
 body { 
 
-    background-color: #7fff00;
-    font: optional; 
+    background-color: #27fe06;
+    font-size: 30px; 
+    
 
 }
+
+header { 
+
+   background-color: aliceblue;
+   height: 120px;
+   text-align: center;
+
+}
+
 
 p{
     
   
     font-size: 30px;
-  
+    text-align: center;
     font: optional;
 }  
 
+h2{
+    
+    text-align: center;
+    font: optional;
+}  
+
+p{
+    
+  
+    font-size: 30px;
+    text-align: center;
+    font: optional;
+
+}
+
+div{
+    font-size: 20px;
+       font: optional;
+
+}
+
+.v1{
+
+    background-color: #42996d;
+}
+
+.v2{
+    background-color: #42996d;
+}
