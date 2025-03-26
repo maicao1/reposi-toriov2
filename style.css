@@ -5,17 +5,20 @@
 
 body { 
 
-    background-color: #27fe06;
+    background-color:  #2a7d09;
     font-size: 30px; 
-    
+    -webkit-text-fill-color: rgb(248, 246, 246);
 
 }
 
 header { 
 
-   background-color: aliceblue;
-   height: 120px;
+   background-color: rgb(243, 246, 249);
+   height: 70px;
    text-align: center;
+   -webkit-text-fill-color: black;
+   font: large;
+  
 
 }
 
@@ -51,9 +54,25 @@ div{
 
 .v1{
 
-    background-color: #42996d;
+ background-color:  #2a7d09;
+  
 }
 
 .v2{
-    background-color: #42996d;
+
+    background-color:  #2a7d09;
+   
+}
+.vcor{
+
+    background-color: #8b4513;
+   
+}
+
+ul{
+    display: inline-block;
+    vertical-align:table-row-growp;
+    width: 30%;
+    margin-right: 20%;
+    font-size: 30px;
 }
